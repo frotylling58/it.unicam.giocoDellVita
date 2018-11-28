@@ -10,7 +10,7 @@ Eccezioni 1
            public   protected   private 
 Funzioni     6          3          1
 Metodi       6          0          4
-Enumeratori  1			0	       0
+Enumeratori  1          0          0
 
                  classi  attributi  metodi
 Uso di final        1        0         0
